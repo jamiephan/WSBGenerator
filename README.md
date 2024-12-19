@@ -8,7 +8,8 @@ Documentation Reference: https://learn.microsoft.com/en-us/windows/security/appl
 
 ## TODO
 
-[ ] Mapped Folder support
-[ ] Toggle Light/Dark Mode
-[ ] Compact UI
-[ ] Error handling?
+- [ ] Mapped Folder support
+- [ ] Show XML file content in popup
+- [ ] Toggle Light/Dark Mode
+- [ ] Compact UI
+- [ ] Error handling?

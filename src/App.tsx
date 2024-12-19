@@ -61,7 +61,7 @@ function App() {
       .ele("MemoryInMB", data.MemoryInMB)
       .end({ pretty: true });
 
-    // Generate a wsb.xml file and download it
+    // Generate the .wsb file and download it
     const file = new Blob([xml], { type: "text/xml" });
     const fileURL = URL.createObjectURL(file);
     const link = document.createElement("a");
