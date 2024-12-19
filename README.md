@@ -16,3 +16,4 @@ Documentation Reference: https://learn.microsoft.com/en-us/windows/security/appl
 - [ ] Error handling?
 - [ ] Move Generate to sticky bottom
 - [ ] Add some templates
+- [ ] Local Storage saving config
