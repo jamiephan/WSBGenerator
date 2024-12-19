@@ -8,8 +8,11 @@ Documentation Reference: https://learn.microsoft.com/en-us/windows/security/appl
 
 ## TODO
 
-- [ ] Mapped Folder support
+- [ ] Mapped Folder support (Add some common ones)
+- [ ] Multiple Logon Commands
 - [ ] Show XML file content in popup
 - [ ] Toggle Light/Dark Mode
-- [ ] Compact UI
+- [ ] Compact UI (Group permissions)
 - [ ] Error handling?
+- [ ] Move Generate to sticky bottom
+- [ ] Add some templates
